@@ -46,8 +46,8 @@
   * `pip3 install -r requirements.txt`
   * `python3 impulse.py --help`
 
-# :phone: Example SMS & Call flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
+# Example 
+```python3 impulse.py --method  --time  --threads  --target ```
 
 
-# video on tool
+# video to know how to use.
