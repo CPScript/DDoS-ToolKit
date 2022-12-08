@@ -2,9 +2,8 @@
 ## Modern Denial-of-service ToolKit
 
 
-<p align="center">
 ![32791](https://user-images.githubusercontent.com/83523587/206498458-0557c3ea-75bb-459e-a8f8-76843adee416.png)
-</p>
+
 
 
 # :satellite: Methods:
