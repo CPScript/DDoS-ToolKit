@@ -1,4 +1,4 @@
-# Created by LimerBoy
+# Created by CPScript
 # Import modules
 import os
 import sys
