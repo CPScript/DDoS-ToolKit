@@ -22,14 +22,14 @@ parser = argparse.ArgumentParser(description="Denial-of-service ToolKit")
 parser.add_argument(
     "--target",
     type=str,
-    metavar="<IP:PORT, URL, PHONE>",
-    help="Target ip:port, url or phone",
+    metavar="IP:PORT, URL, PHONE",
+    help=" ",
 )
 parser.add_argument(
     "--method",
     type=str,
-    metavar="<SMS/EMAIL/NTP/UDP/SYN/ICMP/POD/SLOWLORIS/MEMCACHED/HTTP>",
-    help="Attack method",
+    metavar="SMS / EMAIL / NTP / UDP / SYN / ICMP / POD / SLOWLORIS / MEMCACHED / HTTP",
+    help=" ",
 )
 parser.add_argument(
     "--time", type=int, default=10, metavar="<time>", help="time in secounds"
