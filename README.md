@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/rFct6QX/LOGO.png">
+![32791](https://user-images.githubusercontent.com/83523587/206498458-0557c3ea-75bb-459e-a8f8-76843adee416.png)
 </p>
 
 
@@ -51,3 +51,4 @@
 
 
 # video to know how to use.
+
