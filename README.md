@@ -55,4 +55,4 @@
 
 
 
-# imgaes of tool
+# images of tool
