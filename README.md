@@ -46,11 +46,11 @@
   * `python3 impulse.py --help`
 
 
-<p align="center">
+<div align="center">
 
 # --------- other languages ----------
 
-<p align="left">
+<div align="left">
  
 ## SPANISH/español
 * Cómo utilizar
