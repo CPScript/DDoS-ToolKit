@@ -51,12 +51,11 @@
 
 
 # --------- other languages ----------
-* SPANISH/
-  * Cómo utilizar
-  * Abra este proyecto en codespace.
-  * Luego paiste lo siguiente en la terminal
+## SPANISH/español
+* Cómo utilizar
+* Abra este proyecto en codespace.
+* Luego paiste lo siguiente en la terminal
  
-
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
   * `git clone https://github.com/CPScript/ToolKit`
