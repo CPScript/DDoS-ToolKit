@@ -46,8 +46,12 @@
   * `python3 impulse.py --help`
 
 
+<p align="center">
 
 # --------- other languages ----------
+
+<p align="left">
+ 
 ## SPANISH/español
 * Cómo utilizar
 * Abra este proyecto en codespace.
