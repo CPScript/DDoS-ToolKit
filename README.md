@@ -78,6 +78,17 @@
   * `python3 impulse.py --help`
 
 
+## Hindi
+* कैसे दौड़ें
+* कृपया इस कोड को कोडस्पेस में चलाएं
+* इसे कॉपी करके टर्मिनल में पेस्ट करें
+ 
+  * `sudo apt update`
+  * `sudo apt install python3 python3-pip git -y`
+  * `git clone https://github.com/CPScript/ToolKit`
+  * `cd Impulse/`
+  * `pip3 install -r requirements.txt`
+  * `python3 impulse.py --help`
 
 
 
