@@ -103,7 +103,7 @@ Once they have control over enough machines, the hackers can then issue a comman
 
 This can be anything from a childish prank to revenge against a business. And while it sounds harmless at first, it’s important to know that the average cost of a DDoS attack to even small business operations can be as much as $120,000 – enough to bring many small businesses to their knees. Large corporations can lose millions.
  
- 
+![Stachledraht_DDos_Attack svg](https://user-images.githubusercontent.com/83523587/206925073-7e33326d-3cfb-45f9-854d-157ea9d863b2.png)
 
  
  
@@ -122,7 +122,6 @@ This can be anything from a childish prank to revenge against a business. And wh
 | Slowloris            | IP:PORT    | Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target. |
 | Memcached            | IP:PORT    | A memcached distributed denial-of-service (DDoS) attack is a type of cyber attack in which an attacker attempts to overload a targeted victim with internet traffic. The attacker spoofs requests to a vulnerable UDP memcached* server, which then floods a targeted victim with internet traffic, potentially overwhelming the victim’s resources. While the target’s internet infrastructure is overloaded, new requests cannot be processed and regular traffic is unable to access the internet resource, resulting in denial-of-service. |
 
-![Stachledraht_DDos_Attack svg](https://user-images.githubusercontent.com/83523587/206925073-7e33326d-3cfb-45f9-854d-157ea9d863b2.png)
 
 
 
