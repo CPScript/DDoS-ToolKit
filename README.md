@@ -50,7 +50,7 @@
 
 
 
-# --------- other languages ----------
+#                                  --------- other languages ----------
 ## SPANISH/español
 * Cómo utilizar
 * Abra este proyecto en codespace.
