@@ -18,7 +18,7 @@ except ImportError as err:
     sys.exit(1)
 
 # Parse args
-parser = argparse.ArgumentParser(description="Denial-of-service ToolKit")
+parser = argparse.ArgumentParser(description="DDoS ToolKit")
 parser.add_argument(
     "--target",
     type=str,
