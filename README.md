@@ -90,6 +90,23 @@ scroll down to learn more...
 <div align="center">
 
 
+ 
+  
+ # What is a ddos attack?
+### Well first of all as you probibly know its a WIFI spoofer or a Internet booter... well YES thats right but how does it work?
+ 
+Most DDoS attacks are done with botnets – groups of computers all acting together. These computers will all attempt to access a website simultaneously, overwhelming the server and bringing it down.
+
+How do they get these botnets? By hijacking other machines. Often, a hacker will use malware or take advantage of an unpatched vulnerability on someone else’s server to gain access to it via Command and Control (C2) software. By leveraging these exploits, hackers are able to amass large numbers of computers in a relatively cheap and easy way, which they can then deploy for their own nefarious purposes.
+
+Once they have control over enough machines, the hackers can then issue a command to the entire botnet, which then attempts to access the target server. When too many computers are trying to access a server all at once, service outages are common. The end result is an interruption in service and lost productivity.
+
+This can be anything from a childish prank to revenge against a business. And while it sounds harmless at first, it’s important to know that the average cost of a DDoS attack to even small business operations can be as much as $120,000 – enough to bring many small businesses to their knees. Large corporations can lose millions.
+ 
+ 
+
+ 
+ 
 
 # :satellite: Methods:
 | Method               |   Target   | Description |
@@ -105,6 +122,7 @@ scroll down to learn more...
 | Slowloris            | IP:PORT    | Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target. |
 | Memcached            | IP:PORT    | A memcached distributed denial-of-service (DDoS) attack is a type of cyber attack in which an attacker attempts to overload a targeted victim with internet traffic. The attacker spoofs requests to a vulnerable UDP memcached* server, which then floods a targeted victim with internet traffic, potentially overwhelming the victim’s resources. While the target’s internet infrastructure is overloaded, new requests cannot be processed and regular traffic is unable to access the internet resource, resulting in denial-of-service. |
 
+![Stachledraht_DDos_Attack svg](https://user-images.githubusercontent.com/83523587/206925073-7e33326d-3cfb-45f9-854d-157ea9d863b2.png)
 
 
 
