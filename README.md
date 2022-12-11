@@ -132,6 +132,4 @@ This can be anything from a childish prank to revenge against a business. And wh
 
 ![Screenshot 2022-12-08 11 11 41 AM](https://user-images.githubusercontent.com/83523587/206499935-f1cec77c-223d-4c09-ab70-1ed4c3668cef.png)
 
-![Screenshot 2022-12-08 11 11 32 AM](https://user-images.githubusercontent.com/83523587/206499956-1eb311cd-a766-40a1-91fd-2a126008d710.png)
-
 ![Screenshot 2022-12-08 11 11 25 AM](https://user-images.githubusercontent.com/83523587/206499981-25147893-0dea-47a9-a834-e187e8130854.png)
