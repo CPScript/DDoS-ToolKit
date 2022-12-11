@@ -20,7 +20,7 @@
 | Slowloris            | IP:PORT    | Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target. |
 | Memcached            | IP:PORT    | A memcached distributed denial-of-service (DDoS) attack is a type of cyber attack in which an attacker attempts to overload a targeted victim with internet traffic. The attacker spoofs requests to a vulnerable UDP memcached* server, which then floods a targeted victim with internet traffic, potentially overwhelming the victim’s resources. While the target’s internet infrastructure is overloaded, new requests cannot be processed and regular traffic is unable to access the internet resource, resulting in denial-of-service. |
 
-# :gift: Installation:
+# :gift: HOW 2 USE:
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
@@ -49,7 +49,20 @@
 ```python3 impulse.py --method  --time  --threads  --target ```
 
 
-# video to know how to use.
+
+# --------- other languages ----------
+* SPANISH/
+* Cómo utilizar
+* Abra este proyecto en codespace.
+* Luego paiste lo siguiente en la terminal
+
+
+
+
+
+
+
+
 
 
 
