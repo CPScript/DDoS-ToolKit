@@ -49,12 +49,24 @@
 ```python3 impulse.py --method  --time  --threads  --target ```
 
 
-
-#                                  --------- other languages ----------
+# --------- other languages ----------
 ## SPANISH/español
 * Cómo utilizar
 * Abra este proyecto en codespace.
 * Luego paiste lo siguiente en la terminal
+ 
+  * `sudo apt update`
+  * `sudo apt install python3 python3-pip git -y`
+  * `git clone https://github.com/CPScript/ToolKit`
+  * `cd Impulse/`
+  * `pip3 install -r requirements.txt`
+  * `python3 impulse.py --help`
+
+
+## Chinese
+* 如何运行
+* 请在 Codespace 上打开此代码
+* 接下来将此代码复制并粘贴到终端中
  
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
