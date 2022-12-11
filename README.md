@@ -55,7 +55,7 @@ scroll down to learn more...
   * `python3 impulse.py --help`
 
 
-## Chinese
+## Chinese/中国人
 * 如何运行
 * 请在 Codespace 上打开此代码
 * 接下来将此代码复制并粘贴到终端中
@@ -68,7 +68,7 @@ scroll down to learn more...
   * `python3 impulse.py --help`
 
 
-## Hindi
+## Hindi/हिन्दी
 * कैसे दौड़ें
 * कृपया इस कोड को कोडस्पेस में चलाएं
 * इसे कॉपी करके टर्मिनल में पेस्ट करें
